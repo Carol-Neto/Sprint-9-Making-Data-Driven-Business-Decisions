@@ -28,8 +28,10 @@ You ran an A/B test and got the results described in the `orders_us.csv` and `vi
 8. Calculate the 95th and 99th percentiles of order prices
 9. Find the statistical significance of the difference in conversion between groups using the raw data.
 10. Find the statistical significance of the difference in average order size between the groups using the raw data.
+11. Find the statistical significance of the difference in conversion between the groups using the filtered data.
+12. Find the statistical significance of the difference in average order size between the groups using the filtered data.
 
-Conclusion
+# Conclusion
 
 ---
 # Dictionary
